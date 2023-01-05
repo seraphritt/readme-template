@@ -9,15 +9,9 @@
 
 > Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 
-### Ajustes e melhorias
+### Diferenças em relação ao modelo anterior
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
-
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+O modelo utilizado como base (https://github.com/seraphritt/mesa-examples/tree/main/examples/Virus_on_Network) foi modificado adicionando uma nova variável independente chamada `lethal_chance` que representa a chance de um vírus mudar o estado de um agente para `dead` e uma nova variável dependente com o nome de `dead` que conta a quantidade de agentes mortos, ou seja, com estado `dead`. 
 
 ## 💻 Pré-requisitos
 
